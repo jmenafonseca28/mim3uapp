@@ -1,5 +1,5 @@
 {
-  "name": "M3U_IONIC",
+  "name": "mim3uapp",
   "integrations": {
     "capacitor": {}
   },
