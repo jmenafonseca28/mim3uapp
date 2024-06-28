@@ -1,0 +1,7 @@
+{
+  "name": "M3U_IONIC",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular-standalone"
+}

@@ -1,0 +1,20 @@
+{
+  "typescript.preferences.autoImportFileExcludePatterns": [
+    "@ionic/angular/common",
+    "@ionic/angular"
+  ],
+  "cSpell.words": [
+    "acci",
+    "Contrase",
+    "electr",
+    "enviroment",
+    "ingenieriaback",
+    "ionicons",
+    "mero",
+    "miionic",
+    "mpegurl",
+    "nico",
+    "sesi",
+    "Userr"
+  ]
+}

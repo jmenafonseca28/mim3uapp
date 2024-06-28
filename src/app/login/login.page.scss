@@ -1,0 +1,51 @@
+
+
+.header {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-bottom: 2px solid #00f;
+    box-shadow: 0 0 10px #00f, 0 0 20px #00f, 0 0 30px #00f;
+   
+}
+/* Global styles or specific component styles */
+
+/* Dark theme background */
+.dark-theme {
+    background-color: #000;
+    color: #fff;
+  }
+  
+  /* Text white */
+  .text-white {
+    color: #fff !important;
+  }
+  
+  /* Neon blue border for the first div */
+  .neon-border {
+    border: 2px solid #00f;
+    box-shadow: 0 0 10px #00f, 0 0 20px #00f, 0 0 30px #00f;
+  }
+  
+  /* Ensure ion-items and labels have the correct color */
+  ion-item.text-white,
+  ion-label.text-white {
+    --color: #fff;
+    --background: #000;
+  }
+  
+  /* Ensure inputs have the correct text color */
+  ion-input {
+    --color: #fff;
+  }
+  
+  /* Adjust ion-card background color if needed */
+  ion-card.color4 {
+    --background: #111;
+  }
+  
+  ion-card-title.color2,
+  ion-card-subtitle.color2 {
+    color: #fff;
+  }
+  

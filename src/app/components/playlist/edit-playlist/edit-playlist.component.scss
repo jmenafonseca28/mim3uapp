@@ -1,0 +1,53 @@
+.button-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 16px; /* space between buttons */
+    margin-top: 16px;
+  }
+  .custom-button {
+    --background: #0d2fab;
+    --color: #fff;
+    margin: 8px 0;
+  }
+
+
+
+  
+
+  
+  /* Neon blue bottom border for the header */
+  .neon-border-bottom {
+    border-bottom: 2px solid #00f;
+    box-shadow: 0 0 10px #00f, 0 0 20px #00f, 0 0 30px #00f;
+  }
+  
+  /* Custom form styles */
+  .custom-form {
+    padding: 16px;
+  }
+  
+  
+  /* Custom button styles */
+  .button-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 16px; /* space between buttons */
+    margin-top: 16px;
+  }
+  
+  .custom-button {
+    --background: #0d2fab;
+    --color: #fff;
+    width: 100%; /* make buttons full width */
+  }
+  
+  ion-item.text-white ion-label {
+    --color: #fff;
+  }
+  
+  ion-item.text-white ion-input {
+    --color: #fff;
+  }
+  
